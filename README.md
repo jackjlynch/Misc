@@ -1,4 +1,4 @@
 Misc
 ====
 
-Miscellaneous short programs and whatnot
+Miscellaneous short programs and whatnot(Project Euler, HackerRank, etc.)
