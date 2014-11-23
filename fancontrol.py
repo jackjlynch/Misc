@@ -36,7 +36,7 @@ def adjustFan():
 def main():
     while True:
         adjustFan()
-        print("Fan speed:", getFanSpeed())
+        print("Fan speed:", getFanSpeed(), "\t Temperature:", getTemp())
         sleep(5)
 
 
