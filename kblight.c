@@ -19,8 +19,6 @@ int main(int argc, char* argv[]) {
     char currentLevel = '0';
     read(brightness, &currentLevel, 1);
 
-    printf("%c\n", currentLevel);
-
     if(argv[1][0] == '+' && currentLevel != MAX) {
         currentLevel += 1;
     }
